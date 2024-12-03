@@ -1,0 +1,6 @@
+*.app
+*.App
+*.log
+*.tmp
+.vscode
+.DS_Store
